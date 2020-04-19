@@ -2314,6 +2314,9 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rWxvsvgewj H1 {
+  color: #f7ed4a;
+}
 .cid-rWxwWcq6Uc {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2472,6 +2475,9 @@ section.lazy-placeholder:after {
     padding-top: 1rem;
   }
 }
+.cid-rWxRC2w79t P {
+  color: #232323;
+}
 .cid-rWxyIt0dCi {
   padding-top: 15px;
   padding-bottom: 90px;
@@ -2567,7 +2573,7 @@ section.lazy-placeholder:after {
 .cid-rWxyWSripI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #f74ad9);
+  background: linear-gradient(45deg, #f7ed4a, #f7ed4a);
 }
 .cid-rWxyWSripI .list-group-item {
   padding: .75rem 3.25rem;
@@ -2627,6 +2633,9 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-rWxyWSripI .plan-title {
+  color: #232323;
+}
+.cid-rWxyWSripI .price-term B {
   color: #232323;
 }
 .cid-rWxG28K6Do {
