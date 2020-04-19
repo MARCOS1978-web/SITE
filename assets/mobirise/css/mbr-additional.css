@@ -2621,10 +2621,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rWxyWSripI UL {
-  color: #767676;
+  color: #232323;
 }
 .cid-rWxyWSripI .price-term {
   text-align: right;
+}
+.cid-rWxyWSripI .plan-title {
+  color: #232323;
 }
 .cid-rWxG28K6Do {
   padding-top: 0px;
